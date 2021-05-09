@@ -30,3 +30,6 @@ html, body {
 .text-primary {
     color: var(--color-primary) !important;
 }
+.section{
+    height: 35vh;
+}
